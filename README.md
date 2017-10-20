@@ -8,7 +8,9 @@
 	
 
 ## Relationships to the case study:
-There are several data from the CSV file provided that could be used in the employment management system: occupation information of the offenders: use to categorize and prioritize what kinds of jobs are most suitable for offenders after being released. Education information is also helpful in order to identify which job level is applicable for individual offenders. Other demographic information such as: age also could be used. The jail remaining time is also a factor to consider. 
+
+   As mentioned above, the goal of this study is to propose an ontology approach to integrate available information from different sources that could support ex-offenders getting suitable jobs after being in jail. I also want to identify who are the organizations (some of them are mentioned in the above session) interested in and currently being involved in this employment reference process and propose a standard process show these organizations should collaborate to each other. There is several information from our dataset are relevant such as: occupation information of the offenders could be used to categorize and prioritize what kinds of jobs are most suitable for offenders after being released. Education information is also helpful in order to identify which job level is applicable for individual offenders. Other demographic information such as: age also could be used. The jail remaining time is also a factor to consider. 
+
 
 ## Existing published vocabularies that are candidates for extension or adaptation:
 
