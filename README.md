@@ -3,6 +3,8 @@ According to the Champaign county criminal justice system institute for law and 
 
 One of the aspects of the reentry program that I am particularly interested in is how to improve the ex-offender employment opportunities management system, which would be beneficial not only for offenders who are in needs of information and supports to reintegrate into the society after being released; but also for society by greatly enhancing public safety, preserving families, and strengthening social networks and support systems. Inspired by this idea, in this project, I want to propose an ontological approach in order to improve ex-offender employment case management. 
 
+Research has shown a clear link between crime and work. Having a legitimate job lessens the chances of re-offending following release from prison. Also, the higher the wages, the less likely it is that returning prisoners will return to crime. 
+
 Links:
 - City Of Chicago: Reentry Program –  Some reentry information for felons
 - Reentry Illinois – Some information but seems outdated. Still may be useful though.
