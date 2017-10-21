@@ -20,10 +20,15 @@
   
   Several core classes and properties would be (subjected to change, depending on the process which would be identifed more clearly towards end of the study):
       - Class "Prisoner": with properties such as Age (number), Previous Occupation (class), Education (class), Jail Serving Time.
+      
       - Class "Ocuppation": with properties such as Occupation Name (text), Occupation Description (text).
+      
       - Class Education": with properties such as Field (text), Level (text).
+      
       - Class "Employment Agencies".
+      
       - Class "Employment Opportunities": with proterties such as Required Field, Required Education, Required Experience etc.
+      
       - Class "Ex-offender Employment Reference": serves as the document matching between a prisoner with an employment opportunity.
 
 ## References:
