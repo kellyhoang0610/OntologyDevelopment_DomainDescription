@@ -19,6 +19,7 @@
 ## Ideas for classes and properties:
   
   Several core classes and properties would be (subjected to change, depending on the process which would be identifed more clearly towards end of the study):
+  
       - Class "Prisoner": with properties such as Age (number), Previous Occupation (class), Education (class), Jail Serving Time.
       
       - Class "Ocuppation": with properties such as Occupation Name (text), Occupation Description (text).
