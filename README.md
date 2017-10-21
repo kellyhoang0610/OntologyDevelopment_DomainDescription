@@ -17,7 +17,14 @@
    So far, there is no existing ontology that is designed specifically for ex-offender employment reference process. We always can base on the data available, objects (which are the organizations, agencies that involved the process) to define and develop our own vocabularies particularly for this domain. One existing ontology could be helpful for reference purpose (as I can found) is Human Resources Management Ontology [7] which includes several standard ontologies: occupation ontology (which models knowledge of occupations and job categories); skill ontology (which classifies 131 skills); education ontology (which models knowledge of education level and education fields). 
 
 ## Ideas for classes and properties:
-Along with this ex-offender employment opportunities management, other 
+  
+  Several core classes and properties would be (subjected to change, depending on the process which would be identifed more clearly towards end of the study):
+      - Class "Prisoner": with properties such as Age (number), Previous Occupation (class), Education (class), Jail Serving Time.
+      - Class "Ocuppation": with properties such as Occupation Name (text), Occupation Description (text).
+      - Class Education": with properties such as Field (text), Level (text).
+      - Class "Employment Agencies".
+      - Class "Employment Opportunities": with proterties such as Required Field, Required Education, Required Experience etc.
+      - Class "Ex-offender Employment Reference": serves as the document matching between a prisoner with an employment opportunity.
 
 ## References:
 1. Institute for Law and Policy Planning Team. September 24, 2013. Champaign County Criminal Justice System Assessment: Final Report. 
